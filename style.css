@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+    background-color:lightblue;
+    color:aqua;
+    font-family: 'League Spartan', sans-serif;
+    font-family: 'Red Hat Mono', monospace;
+}
+#header{
+    background-color:grey;
+    margin-top: -20px;
+}
+button{
+    color:lightblue;
+    background-color:grey;
+    border-width:10px;
+    border-style:groove;
+    border-color:grey;
+}
